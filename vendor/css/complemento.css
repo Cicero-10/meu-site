@@ -23,6 +23,14 @@
   }
  
 }
+@media (max-width: 764px){
+  .menu{
+    background: #6f42c1;
+    color: #fff;
+    padding: 20px 0;
+    transition: all 0.5s;
+  }
+}
 
 #header{
 	position: relative;
